@@ -1,7 +1,7 @@
 # django-react-starterpack
 A basic set up for a Django project utilizing React.
 
-This project accompanies the Medium article, [Supercharging your next web project with Django, React, and Webpack](https://medium.com/@mr.burkes/supercharging-your-next-web-project-with-django-react-and-webpack-65b015a8831f).
+This project accompanies the Medium article, [Supercharging your next web project with Django, React, and Webpack](https://medium.com/@kkworden/supercharging-your-next-web-project-with-django-react-and-webpack-65b015a8831f).
 
 ## Getting started
 You will need:
